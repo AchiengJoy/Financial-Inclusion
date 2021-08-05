@@ -6,5 +6,5 @@ The objective of this project is to create a machine learning model to predict w
 ### Data Source
 Zindi Africa, Link:https://zindi.africa/competitions/financial-inclusion-in-africa/data
 
-### Algoritthm used
+### Algorithms used
 All classification machine learning algorithms.
